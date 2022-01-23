@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+#body{
+	background-color: hsl(212, 45%, 89%);
+	font-family: Outfit;
+	line-height: 1.5;
+	
+}
+
+#image{
+	width: 375px;
+	border-radius: 10px;
+}
+
+.container{
+width: 375px;
+background-color: hsl(0, 0%, 100%);
+margin: auto;
+padding: 20px 20px 10px 20px;
+	border-radius: 10px;
+}
+
+#main-text{
+	font-size: 15px;
+	margin: auto;
+	color: hsl(220, 15%, 55%);
+}
+
